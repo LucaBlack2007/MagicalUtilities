@@ -1,0 +1,8 @@
+{
+    "name": "MagicalUtilities",
+    "description": "Auto terminator",
+    "author": "MagicalMC",
+    "entry": "index.js",
+    "requires":["CTAutocomplete", "RenderLib", "requestV2", "Vigilance", "PogData"],
+    "version":"1.3"
+  }

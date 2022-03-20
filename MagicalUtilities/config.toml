@@ -1,0 +1,109 @@
+
+[macros]
+
+	[macros."shoot_bow_(m4)"]
+		shoot_bow_message = "SHOOT BOW"
+		shoot_bow_spam = false
+
+	[macros.downtime]
+		shoot_bow_message = "WTF DT"
+		downtime_spam = false
+
+	[macros."pick_up_bow_(m4)"]
+		pick_up_bow_message = "PICK UP BOW"
+		pick_up_bow_spam = false
+
+	[macros.auto_wardrobe]
+		auto_wardrobe = true
+
+	[macros.swaps]
+		swap_macros = "Snowball"
+
+[esp]
+	bat_esp = true
+	starred_mob_esp = false
+	mob_esp_color = "255,0,73,241"
+	show_hidden_mobs = true
+
+[dungeons]
+
+	[dungeons.idk]
+		number = 0.0
+
+	[dungeons.terminator_qol]
+		terminator_autoclicker = true
+		terminator_cps = 135
+		right-click_ac_weapon = "Rogue,Term"
+
+	[dungeons.spirit_sceptre]
+		qol_spirit_sceptre = false
+
+	[dungeons.jellyfish_qol]
+		jellyfish_qol = false
+
+	[dungeons.ghost_blocks]
+		ghost_blocks = true
+
+	[dungeons.chest_shit]
+		toggle_insta-buy = true
+		items_to_buy = "GIANT'S SWORD, NECRON'S HANDLE, WITHER CHESTPLATE, ONE FOR ALL, RECOMBOBULATOR, FIRST MASTER STAR, SECOND MASTER STAR, THIRD MASTER STAR, FOURTH MASTER STAR, SHADOW ASSASSIN CHESTPLATE, SHADOW FURY, SPIRIT WING, iron sword"
+
+	[dungeons.funny_mort]
+		"&cmort_aura" = false
+		mort_aura = false
+
+	[dungeons.anti-knockback]
+		starred_mob_esp = false
+		anti-knockback = true
+
+	[dungeons.misc]
+		chunk_leap_name = "bunx123"
+		block_cells_alignment = true
+		chunk_leap = true
+		leap_qols = false
+
+[auto_pet]
+
+	[auto_pet.debug]
+		autopet_debug = false
+
+	[auto_pet.jellyfish_qol]
+		jellyfish_qol = false
+
+[chat_macros]
+
+	[chat_macros."shoot_bow_(m4)"]
+		shoot_bow_message = "SHOOT BOW"
+		shoot_bow_spam = false
+
+	[chat_macros.downtime]
+		shoot_bow_message = "WTF DT"
+		downtime_spam = true
+
+	[chat_macros."pick_up_bow_(m4)"]
+		pick_up_bow_message = "PICK UP BOW"
+		pick_up_bow_spam = false
+
+	[chat_macros.master_mode_4]
+		shoot_bow_spam_message = true
+		pick_up_bow_spam_message = true
+
+	[chat_macros.misc]
+		downtime_spam = true
+
+[dungeon]
+
+	[dungeon.terminator_qol]
+		terminator_autoclicker = true
+		terminator_cps = 200
+		right-click_ac_weapon = "Terminator,Edible,Rogue"
+
+[misc]
+
+	[misc.rank]
+		chat_prefix = "&c[&fYOUTUBE&c]"
+
+	[misc.ophelia]
+		ophelia_override_clicks = 5
+		ophelia_block_clicks = false
+

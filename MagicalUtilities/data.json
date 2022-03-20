@@ -1,0 +1,25 @@
+{
+    "apiKey": "8ff87409-36f0-4219-8abe-8ae6f68dcd16",
+    "sceptreBlacklist": [
+        "Hyperion",
+        "Scylla",
+        "Valkyrie",
+        "Astraea"
+    ],
+    "chestContents": [
+        "GIANT'S SWORD",
+        "NECRON'S HANDLE",
+        "WITHER CHESTPLATE",
+        "ONE FOR ALL",
+        "RECOMBOBULATOR",
+        "FIRST MASTER STAR",
+        "SECOND MASTER STAR",
+        "THIRD MASTER STAR",
+        "FOURTH MASTER STAR",
+        "FIFTH MASTER STAR",
+        "SHADOW ASSASSIN CHESTPLATE",
+        "SHADOW FURY",
+        "SPIRIT WING",
+        "DARK CLAYMORE"
+    ]
+}
